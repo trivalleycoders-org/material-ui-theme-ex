@@ -144,7 +144,7 @@ Breakpoints are created like this
 const styles = theme => ({
   wrapper: {
     backgroundColor: 'orange',
-    [theme.breakpoints.up('md)]: {
+    [theme.breakpoints.up('md')]: {
       padding: '15%',
     }
   }

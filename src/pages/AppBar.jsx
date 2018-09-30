@@ -41,7 +41,7 @@ function MainAppBar(props) {
           >
             Default
           </Button>
-          <a>
+          <a href='https://github.com/trivalleycoders-org/material-ui-theme-ex/blob/master/md/jss.md'>
             <Button
               color='secondary'
               variant='raised'
