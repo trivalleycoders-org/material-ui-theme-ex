@@ -1,29 +1,22 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { withStyles } from '@material-ui/core/styles'
-import withRoot from '../withRoot'
-import AppBar from './AppBar'
-import ThemeGuide from './ThemeGuide'
+import withRoot from './withRoot'
+import ClassComponent from './ClassComponent'
+import FunctionalComponent from './FunctionalComponent'
 
 class App extends React.Component {
 
   render() {
 
-    const { buttonClick, classes } = this.props
+    const { classes } = this.props
 
     return (
       <div className={classes.app}>
-        <AppBar
-          buttonClick={buttonClick}
-        />
-        <ThemeGuide />
+        <ClassComponent />
+        <FunctionalComponent />
       </div>
     )
   }
-}
-
-App.propTypes = {
-  classes: PropTypes.object.isRequired,
 }
 
 const styles = theme => ({
@@ -32,7 +25,6 @@ const styles = theme => ({
     flexFlow: 'column nowrap',
     alignItems: 'center',
     paddingTop: theme.spacing.unit * 10
-    // backgroundColor: 'red',
   },
 })
 
