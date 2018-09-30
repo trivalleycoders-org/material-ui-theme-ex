@@ -13,19 +13,16 @@ export const Primary = ({ classes, theme }) => {
       </Typography>
       <Square
         bgColor={theme.palette.primary.light}
-        // color={theme.palette.primary.contrastText}
       >
         light
       </Square>
       <Square
         bgColor={theme.palette.primary.main}
-        // color={theme.palette.primary.contrastText}
       >
         main
       </Square>
       <Square
         bgColor={theme.palette.primary.dark}
-        // color={theme.palette.primary.contrastText}
       >
         dark
       </Square>

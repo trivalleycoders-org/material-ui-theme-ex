@@ -15,7 +15,7 @@ export const Divider = ({ classes, theme }) => {
         bgColor={theme.palette.divider}
         // color={theme.palette.primary.contrastText}
       >
-        light
+
       </Square>
     </div>
   )
