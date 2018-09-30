@@ -1,4 +1,8 @@
-# What is Material UI
+## Branches
+- master: demo of a variety of Material UI components with the ability to switch between three different themes.
+- basic-ex: a minimal implementation of styling with Material UI
+
+## What is Material UI
 
 [Material UI](https://material-ui.com) is a set of React components that implement [Google's Material Design](https://material.io/). To get a better ideal of what it is, review their [component demos](https://material-ui.com/demos/app-bar/).
 
@@ -6,7 +10,7 @@ Components range from a simple check box to more complex components such as [Exp
 
 The best way to get to know Material UI is to [browse the component demos](https://material-ui.com/demos/app-bar/).
 
-# Using Material UI In The Context of Trivalley Coders' Events Project
+## Using Material UI In The Context of Trivalley Coders' Events Project
 
 [Writing Styles with JavaScript](https://github.com/trivalleycoders-org/material-ui-theme-ex/blob/master/md/jss.md)
 
