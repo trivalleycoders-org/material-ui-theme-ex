@@ -5,3 +5,10 @@
 Components range from a simple check box to more complex components such as [Expansion Panels](https://material-ui.com/demos/expansion-panels/) an [Cards](https://material-ui.com/demos/cards/).
 
 The best way to get to know Material UI is to [browse the component demos](https://material-ui.com/demos/app-bar/).
+
+# Using Material UI In The Context of Trivalley Coders' Events Project
+
+[Writing Styles with JavaScript]()
+[Material UI Theme]()
+[Styling with Material UI](
+
