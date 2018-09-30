@@ -1,21 +1,7 @@
-# Create React App example
+# What is Material UI
 
-## How to use
+[Material UI](https://material-ui.com) is a set of React components that implement [Google's Material Design](https://material.io/). To get a better ideal of what it is, review their [component demos](https://material-ui.com/demos/app-bar/).
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Components range from a simple check box to more complex components such as [Expansion Panels](https://material-ui.com/demos/expansion-panels/) an [Cards](https://material-ui.com/demos/cards/).
 
-```bash
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
-
-```bash
-npm install
-npm run start
-```
-
-## The idea behind the example
-
-[Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
+The best way to get to know Material UI is to [browse the component demos](https://material-ui.com/demos/app-bar/).
