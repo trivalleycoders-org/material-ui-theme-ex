@@ -152,11 +152,11 @@ const styles = theme => ({
 ```
 Examples
 ```js
-[theme.breakpoints.up('md)]  // applies to size medium and larger
+[theme.breakpoints.up('md')]  // applies to size medium and larger
 
-[theme.breakpoints.only('md)] // applies to size medium only
+[theme.breakpoints.only('md')] // applies to size medium only
 
-[theme.breakpoints.down('md)] // applies to size medium and smaller
+[theme.breakpoints.down('md')] // applies to size medium and smaller
 ```
 
 ## Dynamic Styles
