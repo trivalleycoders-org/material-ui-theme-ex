@@ -9,6 +9,9 @@ The best way to get to know Material UI is to [browse the component demos](https
 # Using Material UI In The Context of Trivalley Coders' Events Project
 
 [Writing Styles with JavaScript](https://github.com/trivalleycoders-org/material-ui-theme-ex/blob/master/md/jss.md)
+
 [Material UI Theme](https://github.com/trivalleycoders-org/material-ui-theme-ex/blob/master/md/mui-theme.md)
+
 [Styling with Material UI](https://github.com/trivalleycoders-org/material-ui-theme-ex/blob/master/md/mui-styling.md)
+
 
